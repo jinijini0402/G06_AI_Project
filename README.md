@@ -18,10 +18,10 @@ The prototype will demonstrate data processing, AI-based recommendation logic, a
 ## 👥 Team Members
 | Name | Organization | Email |
 |------|-------------|--------|
-| Hyeonseo Shim | Hanyang University | hyeonseo321@gmail.com |
-| Sihyun Jang | Hanyang University | jjj99nine2@hanyang.ac.kr |
-| Jin Yun | Hanyang University | jinijini0402@hanyang.ac.kr |
-| Yeonsoo cho | Hanyang University | meriel1010@hanyang.ac.kr |
+| Hyeonseo Shim | Department of Information Systems, Hanyang University | hyeonseo321@gmail.com |
+| Sihyun Jang | Department of Information Systems, Hanyang University | jjj99nine2@hanyang.ac.kr |
+| Jin Yun | Department of Information Systems, Hanyang University | jinijini0402@hanyang.ac.kr |
+| Yeonsoo cho | Department of Public Administration, Hanyang University | meriel1010@hanyang.ac.kr |
 
 ---
 
