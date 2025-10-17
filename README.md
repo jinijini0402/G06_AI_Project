@@ -1,4 +1,4 @@
-# 🏠 HomeQuest : AI Family Coach Project
+# 🏠 HomeQuest
 **LG Smart Home + AI Challenge Platform**
 
 ---
